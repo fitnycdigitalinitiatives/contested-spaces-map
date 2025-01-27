@@ -121,7 +121,7 @@
     "properties": {
       "email": "melissamarinaro@gmail.com",
       "name": "Melissa Marinaro, Heinz History Center",
-      "site": "Garibaldi statue, Washington Square Park",
+      "site": "Statue of Giuseppe Garibaldi by Giovanni Turini",
       "critical_response": "I generally find this academic style of monument boring, but the contrapposto figure of Garibaldi struck a pose I found compelling. It invited me to explore from multiple angles. It was designed to be observed from below and it's a successful imposition on the space, as I circled and admired the monument for a while. I would imagine Carlo Barsotti was happy that the work he help commission was embedded at Washington Square Park. It's a massive status symbol of an Italian political figure. But then I found these weblinks (see provided links). The NYC Parks website does not mention Il Progresso as the driver of fundraiser and instead credits the Italian American community, and the \"Daytonian in Manhattan\" blog reveals how disappointed Turini was in the sculpture (the foundry botched Garibaldi's legs) and that it was named an \"Unsightly New York Statue\" by the NYT in 1899, among other harsh criticisms printed in the early 20th century press. Turns out what I thought was compelling was actually a mistake.",
       "filenames": [
         "WSP_-_Melissa_Marinaro.jpg",
@@ -211,6 +211,384 @@
         "https://www.archpaper.com/2019/01/n-y-c-landmarks-preservation-commission-approves-triangle-shirtwaist-factory-fire-memorial/",
         "https://hyperallergic.com/850108/new-nyc-memorial-honors-triangle-shirtwaist-factory-victims/"
       ]
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97732755803436,
+        40.76043775115397
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Commerce and Industry with a Caduceus",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97732755803436,
+        40.76043775115397
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Youth Leading Industry by Arturo Piccirilli",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97732755803436,
+        40.76043775115397
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Four Continents",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97732755803436,
+        40.76043775115397
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Four Periods in Italian History by Leo Lentelli",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97724534435183,
+        40.759047492107484
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Italia",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97724534435183,
+        40.759047492107484
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "The Immigrant by Giacomo Manzù",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.97724534435183,
+        40.759047492107484
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "The Joy of Life by Attilio Piccirilli",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.9970714443525,
+        40.73145424333677
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Piccirilli carvings on the Washington Square Arch",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.0027051290111,
+        40.73057213513295
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Our Lady of Pompeii Church",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.01366137134116,
+        40.704294406149195
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Sculptures by the Piccirilli Brothers",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.01345543085921,
+        40.70573561866164
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Charging Bull statue by Arturo di Modica",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.01890744925265,
+        40.706937460321285
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Mother Cabrini Memorial by Jill Biagi and Giancarlo Biagi",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.99881994435277,
+        40.7212832540694
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Center for Italian Modern Art",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.00219800202375,
+        40.71466410641714
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Murals by Attilo Pusterla",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98169913085789,
+        40.75509959637153
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Calandra Institute",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98188668242427,
+        40.76826237600146
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Columbus Statue by Gaetano Russo",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98098934435144,
+        40.76843575886842
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "U.S.S. Maine National Monument by the Piccirilli Brothers",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.9727188122138,
+        40.77027079059679
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Christopher Columbus statue by Jeronimo Suñol",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98157293103432,
+        40.75291075521214
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Patience and Fortitude by Piccirilli brothers",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98168745804827,
+        40.752941141849284
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Carvings by Piccirilli brothers",
+      "critical_response": null,
+      "filenames": null,
+      "references": []
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.98223194435191,
+        40.75338545599209
+      ]
+    },
+    "properties": {
+      "email": null,
+      "name": null,
+      "site": "Polonsky Exhibition",
+      "critical_response": null,
+      "filenames": null,
+      "references": null
     }
   }
 ]
